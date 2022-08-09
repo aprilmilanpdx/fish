@@ -5,3 +5,11 @@
 .unimportant {
   color: blue;
 }
+
+.highlight {
+  background-color: yellow;
+}
+
+.fishtype {
+  background-color: aqua;
+}
